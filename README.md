@@ -308,15 +308,9 @@ For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md)
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 ---
+Team
 
-## 📬 Contact & Support
-
-For questions or support, please:
-
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
-- Check the [Discussions](https://github.com/Chaiya8/ai-accessibility-tool/discussions) tab
-
+Chaiya Emmanuel, Frank Lim, Bhoomika Gupta, Mathias  Beccera, Michael Acheampong,
 ---
 
 ## 🎯 Future Roadmap
